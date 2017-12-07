@@ -1,0 +1,6 @@
+Beograd;Djukic;a4;l99;Ekonomski;22
+Beograd;Djukic;a4;m33;Ekonomski;23
+Beograd;Kata;a3;n23;Ekonomski;48
+Kragujevac;djukic;a1;m99;ekonomski;22
+Kragujevac;djukic;a3;m88;ekonomski;36
+Kragujevac;kata;a1;m88;ekonomski;25
